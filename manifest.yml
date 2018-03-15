@@ -9,4 +9,4 @@ applications:
   host: asrjldLiberty01
   domain: eu-gb.mybluemix.net
   services:
-  - Cloudant NoSQL DB-ke
+  - asrjldCloudantNoSQL
